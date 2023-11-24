@@ -11,3 +11,9 @@ https://zhuanlan.zhihu.com/p/354849447
 [MyUniquePtr.cpp](https://github.com/niu0217/SmartPointer/blob/main/code/MyUniquePtr.cpp)
 
 根据C++的规则，我们提供了移动构造而没有提供拷贝构造，那拷贝构造就自动被禁用。
+
+
+
+## 自己实现shared_ptr
+
+[MySharedPtr.cpp](https://github.com/niu0217/SmartPointer/blob/main/code/MySharedPtr.cpp)
