@@ -1,4 +1,4 @@
-TARGET = MyUniquePtr
+TARGET = MySharedPtr
 
 all:
 	g++ -g -o $(TARGET) $(TARGET).cpp
